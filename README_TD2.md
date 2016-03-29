@@ -8,7 +8,6 @@ Merge din 4 in 4 si verifica daca exista caracterul "-" si le numara punandu-le 
 
 Numara caracterele din sir si verifica daca este egal cu numarul de caractere care ar trebui sa fie intr-un numar de creditcard
 
-
 EXEMPLE DE FONCTIONNEMENT CORRECT:
 
 1234-4564-3453-3432
