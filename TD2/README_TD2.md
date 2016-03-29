@@ -17,6 +17,9 @@ EXEMPLE DE FONCTIONNEMENT CORRECT:
 
 VERIFICATION DU FONCTIONNEMENT CORRECT:
 
-1.Accesam http://pegjs.org/online
-2.Copiaza textul din sursa in editorul online;
-3.In sectiunea outputvor aparea valorile true si false daca creditul este valid respectiv invalid
+1.Intram pe siteul http://pegjs.org/online
+2.Se introduce continutul fisierului "TD2.md" in editor.
+3.Se introduce in input stringul pe care dorim sa-l validam (ex. "1234-1234-1234-1234")
+4.In sectiunea "Output" va fi afisata validarea stringului astfel:
+true - daca stringul dat reprezinta un numar de card de credit valid
+false - daca stringul dat nu reprezinta un numar de card de credit valid
